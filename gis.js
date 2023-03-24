@@ -1,3 +1,6 @@
+// create a JavaScript file to handle the functionality of the web-based GIS application.
+// use the ArcGIS API for JavaScript to query and visualize geospatial data.
+
 require([
   'esri/Map',
   'esri/views/MapView',
