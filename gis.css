@@ -1,0 +1,21 @@
+#map {
+  height: 100vh;
+}
+
+#search-form {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 1;
+  background-color: white;
+  border: 1px solid gray;
+  padding: 10px;
+}
+
+#search-form input[type="text"] {
+  width: 150px;
+}
+
+.esri-view-2d .esri-search__submit-button {
+  margin-left: 10px;
+}
